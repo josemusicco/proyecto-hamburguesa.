@@ -9,6 +9,7 @@ function saludar() {
   );
 }
 
+
 function encuesta() {
   alert("Ha continuacion le realizaremos una breve encuesta de satisfaccion");
   let option = prompt(`¿Como fue su experiencia en Hamburguesas Tuttita?
